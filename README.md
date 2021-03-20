@@ -11,6 +11,7 @@
 - rofi
 - thunar 
 - ufetch
+- vim and vim-plug
 - custom scripts by some posts on reddit =D <br><br>
 
 ## TODO
