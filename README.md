@@ -15,7 +15,7 @@
 - custom scripts by some posts on reddit =D <br><br>
 
 ## TODO
-- to set up better screen brightness
+- make screen brightness works
 - polybar don't startup with system :(
 - visual improvements
 
